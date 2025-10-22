@@ -31,7 +31,7 @@ Dicas para polir, testar e lançar seu jogo com o mínimo de atrito e máximo im
 ---
 
 ## 📂 Estrutura do Repositório
-
+```
 eBook-DevAcelerado/
 │
 ├─ capitulo1.md
@@ -43,8 +43,7 @@ eBook-DevAcelerado/
 ├─ imagens/ # Assets visuais do eBook
 ├─ estilos/ # Arquivos de estilo (se houver)
 └─ README.md
-
-
+```
 ---
 
 ## ⚙️ Tecnologias e Ferramentas
