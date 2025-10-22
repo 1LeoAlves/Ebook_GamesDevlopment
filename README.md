@@ -1,6 +1,6 @@
 ![Capa do eBook](https://github.com/1LeoAlves/Ebook_GamesDevlopment/raw/main/ChatGPT%20Image%2022%20de%20out.%20de%202025%2C%2009_50_38.png)
 
-# 🎮 eBook: Desenvolvimento Rápido de Jogos com ChatGPT
+# 🎮 eBook: Crie Jogos em Velocidade Máxima
 
 > Repositório dedicado ao desenvolvimento do meu **eBook**, criado com auxílio do **ChatGPT**, sobre como criar jogos rapidamente sem perder qualidade.
 
